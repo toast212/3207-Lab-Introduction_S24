@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 char randchar()
 {
     char alphabet[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
